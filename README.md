@@ -1,0 +1,2 @@
+# SMeltings
+simple website
